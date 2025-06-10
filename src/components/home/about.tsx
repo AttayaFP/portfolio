@@ -16,11 +16,11 @@ export default function about() {
             <div className="md:w-1/2 animate-slideInRight">
               <div className="flex items-center space-x-2 mb-6">
                 <User className="h-5 w-5 text-blue-400" />
-                <h2 className="text-2xl font-bold">Tentang saya</h2>
+                <h2 className="text-2xl font-bold">Tentang Saya</h2>
                 <div className="h-px bg-blue-500 flex-grow ml-3"></div>
               </div>
 
-              <h3 className="text-3xl font-bold mb-6">Pengembang yang bersemangat menciptakan pengalaman digital yang menakjubkan</h3>
+              <h3 className="text-3xl font-bold mb-6">Pengembang Perangkat Lunak yang bersemangat menciptakan pengalaman digital yang menakjubkan</h3>
 
               <div className="space-y-4 text-gray-300">
                 <p>
